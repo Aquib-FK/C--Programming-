@@ -1,7 +1,7 @@
 /*Aim : WAP to find a factorial of a number using recursive function.
-Name : Raj Maurya
-Roll no : 08
-UIN     : 241A008
+Name : Mohammed Aquib 
+Roll no : 06
+UIN     : 241A006
 Division: A*/
 #include<stdio.h>
 int factorialRecursive(int num)
